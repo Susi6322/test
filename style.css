@@ -1,0 +1,21 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    text-align: center;
+}
+p{
+    font-size: 24px ;
+    color: blue;
+}
+img{
+    border: 5px solid red;
+    color: aqua;
+    font-size: larger;
+}
+.link{
+    text-decoration: none;
+}
+#heading{
+    background-color: brown;
+}
